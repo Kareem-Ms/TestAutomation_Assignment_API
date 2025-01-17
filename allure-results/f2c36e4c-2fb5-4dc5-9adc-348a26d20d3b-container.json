@@ -1,0 +1,1 @@
+{"uuid":"f2c36e4c-2fb5-4dc5-9adc-348a26d20d3b","name":"org.tests.SimpleBookTests.setUp","children":["2caac455-5a69-48ef-a486-e29bfca705cc"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737148855255,"stop":1737148855379}],"afters":[],"start":1737148855254,"stop":1737148855379}
